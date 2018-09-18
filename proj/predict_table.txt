@@ -1,0 +1,6 @@
+                    +                   *                   (                   )                   id                  $                   
+E                                                           E->TE';                                 E->TE';                                 
+T                                                           T->FT';                                 T->FT';                                 
+F                                                           F->(E);                                 F->id;                                  
+E'                  E'->+TE';                                                   E'->empty;                              E'->empty;          
+T'                  T'->empty;          T'->*FT';                               T'->empty;                              T'->empty;          
